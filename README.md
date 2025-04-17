@@ -5,29 +5,33 @@
 ---
 
 ### 📌 Descrizione
-Il progetto prevede la realizzazione di un drone subacqueo autonomo in grado di effettuare analisi ambientali marine, raccogliere dati biologici e geologici e mappare il fondale in tempo reale.
+Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuare analisi ambientali marine, raccogliendo vari dati mostrandoli in una piattaforma pubblica.
 
 ---
 
 ### 🎯 Obiettivi
-- Rilevare temperatura, salinità e PH dell’acqua
-- Analizzare la biodiversità marina con telecamere e sensori ottici
-- Creare mappe 3D del fondale utilizzando sonar
+- Rilevare temperatura, salinità, qualità del' acqua e pressione
+- Analizzare territorio marino con una telecamera
 - Inviare i dati in superficie in tempo reale
+- visulizzare i dati in un sito web pubblico
 
 ---
 
 ### ⚙️ Caratteristiche Tecniche
-- **Microcontrollore:** ESP32 waterproof o Raspberry Pi Zero 2 W in box stagno
-- **Propulsione:** 4 motori brushless in configurazione X
-- **Energia:** Batteria Li-Ion 3S ad alta capacità
+- **Microcontrollore:** Arduino R4 Wifi
+- **Propulsione:** 5 motori (scegliere se usare DC ho B)
+- **Energia:** Batteria Li-Ion 3S-10P
 - **Sensori:**
-  - Temperatura e PH (DF Robot o Atlas Scientific)
-  - Sonar o LIDAR subacqueo
-  - IMU e bussola digitale
+  - sensore Temperatura
+  - sensore TDS (Keyestudio)
+  - sensore pressione (0-0.5Mpa)
+  - sensore giroscopio
+  - sensore accelerometro
+  - sensore salidità 
 - **Comunicazione:**
-  - Trasmissione a 433 MHz / 2.4 GHz (in superficie)
+  - Trasmissione via cavo ethernet
   - Logging dati su SD
+  - possibile trasmissione tramite LoRa
 - **Visione:** Camera subacquea + Deep Learning per riconoscimento fauna
 
 ---
@@ -38,7 +42,7 @@ Il progetto prevede la realizzazione di un drone subacqueo autonomo in grado di 
 ---
 
 ### 🛠️ Stato Attuale
-- [x] Progetto CAD del telaio completato
+- [] Progetto CAD del telaio completato
 - [x] Scelta dei componenti principali
 - [ ] Assemblaggio meccanico
 - [ ] Programmazione firmware e raccolta dati
@@ -54,18 +58,21 @@ Il progetto prevede la realizzazione di un drone subacqueo autonomo in grado di 
 ---
 
 ### 👥 Team
-- Giorgio Perini – Progettazione, elettronica e firmware
-- [Altri membri se ci sono...]
+- Giorgio Perini
+- Luca Cominelli
+- Mirco Lorizzo
 
 ---
 
 ### 📅 Timeline
-| Fase | Data Inizio | Data Fine | Stato |
-|------|-------------|-----------|--------|
-| Progettazione meccanica | 01/03/2025 | 15/03/2025 | ✅ |
-| Sviluppo elettronica | 16/03/2025 | 31/03/2025 | ✅ |
-| Assemblaggio & test | 01/04/2025 | 20/04/2025 | 🟡 |
-| Concorso finale | 30/04/2025 | 30/04/2025 | 🔜 |
+| Fase                                   | Data Inizio     | Data Fine        | Stato |
+|----------------------------------------|------------------|------------------|--------|
+| Registrazione e citizen science        | 01/03/2025       | 18/04/2025       | ✅ |
+| Progettazione e sviluppo del prototipo | 01/04/2025       | 10/05/2025       | 🟡 |
+| Upload documentazione e video          | 01/05/2025       | 10/05/2025       | 🔜 |
+| Consegna dati citizen science          | —                | 18/05/2025       | 🔜 |
+| Selezione finalisti                    | —                | 20/05/2025       | 🔜 |
+| Evento finale - Ocean Day              | 06/06/2025       | 06/06/2025       | 🔜 |
 
 ---
 
