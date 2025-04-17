@@ -5,34 +5,34 @@
 ---
 
 ### 📌 Descrizione
-Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuare analisi ambientali marine, raccogliendo vari dati mostrandoli in una piattaforma pubblica.
+Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuare analisi ambientali marine, raccogliendo vari dati e mostrandoli in una piattaforma pubblica.
 
 ---
 
 ### 🎯 Obiettivi
-- Rilevare temperatura, salinità, qualità del' acqua e pressione
-- Analizzare territorio marino con una telecamera
-- Inviare i dati in superficie in tempo reale
-- visulizzare i dati in un sito web pubblico
+- Rilevare temperatura, salinità, qualità dell’acqua e pressione  
+- Analizzare il territorio marino con una telecamera  
+- Inviare i dati in superficie in tempo reale  
+- Visualizzare i dati in un sito web pubblico
 
 ---
 
 ### ⚙️ Caratteristiche Tecniche
-- **Computer:** Rasberry pi 5
-- **Microcontrollore:** Arduino R4 Wifi
-- **Propulsione:** 5 motori (scegliere se usare DC ho B)
-- **Energia:** Batteria Li-Ion 3S-10P
-- **Sensori:**
-  - sensore Temperatura
-  - sensore TDS (Keyestudio)
-  - sensore pressione (0-0.5Mpa)
-  - sensore giroscopio
-  - sensore accelerometro
-  - sensore salidità 
-- **Comunicazione:**
-  - Trasmissione via cavo ethernet
-  - Logging dati su SD
-  - possibile trasmissione tramite LoRa
+- **Computer:** Raspberry Pi 5  
+- **Microcontrollore:** Arduino R4 WiFi  
+- **Propulsione:** 5 motori (scegliere se usare DC o B)  
+- **Energia:** Batteria Li-Ion 3S-10P  
+- **Sensori:**  
+  - Sensore temperatura  
+  - Sensore TDS (Keyestudio)  
+  - Sensore pressione (0-0.5 Mpa)  
+  - Sensore giroscopio  
+  - Sensore accelerometro  
+  - Sensore salinità  
+- **Comunicazione:**  
+  - Trasmissione via cavo Ethernet  
+  - Logging dati su SD  
+  - Possibile trasmissione tramite LoRa  
 - **Visione:** Camera subacquea + Deep Learning per riconoscimento fauna
 
 ---
@@ -43,29 +43,30 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 ---
 
 ### 🛠️ Stato Attuale
-- [] Progetto CAD del telaio completato
-- [x] Scelta dei componenti principali
-- [ ] Assemblaggio meccanico
-- [ ] Programmazione firmware e raccolta dati
+- [] Progetto CAD del telaio completato  
+- [x] Scelta dei componenti principali  
+- [ ] Assemblaggio meccanico  
+- [ ] Programmazione firmware e raccolta dati  
 - [ ] Test in acqua e calibrazione
 
 ---
 
 ### 📈 Output previsti
-- Tabelle e grafici dei parametri raccolti
-- Immagini e video del fondale
+- Tabelle e grafici dei parametri raccolti  
+- Immagini e video del fondale  
 - Mappa 3D dell’area esplorata
 
 ---
 
 ### 👥 Team
-- Giorgio Perini
-- Luca Cominelli
+- Giorgio Perini  
+- Luca Cominelli  
 - Mirco Lorizzo
 
 ---
 
 ### 📅 Timeline
+
 | Fase                                   | Data Inizio     | Data Fine        | Stato |
 |----------------------------------------|------------------|------------------|--------|
 | Registrazione e citizen science        | 01/03/2025       | 18/04/2025       | ✅ |
@@ -78,11 +79,10 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 ---
 
 ### 📂 File utili
-- [Documentazione completa](doc/ocean2025_project.pdf)
-- [Codice sorgente](src/main.cpp)
+- [Documentazione completa](doc/ocean2025_project.pdf)  
+- [Codice sorgente](src/main.cpp)  
 - [Datasheet sensori](datasheet/)
 
 ---
 
 > 🧠 *“Esplorare gli abissi per capire la superficie.”*
-
