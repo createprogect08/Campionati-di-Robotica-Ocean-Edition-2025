@@ -51,13 +51,6 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 
 ---
 
-### 📈 Output previsti
-- Tabelle e grafici dei parametri raccolti  
-- Immagini e video del fondale  
-- Mappa 3D dell’area esplorata
-
----
-
 ### 👥 Team
 - Giorgio Perini  
 - Luca Cominelli  
