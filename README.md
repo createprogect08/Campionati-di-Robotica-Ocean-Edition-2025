@@ -18,6 +18,7 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 ---
 
 ### ⚙️ Caratteristiche Tecniche
+- **Computer:** Rasberry pi 5
 - **Microcontrollore:** Arduino R4 Wifi
 - **Propulsione:** 5 motori (scegliere se usare DC ho B)
 - **Energia:** Batteria Li-Ion 3S-10P
