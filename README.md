@@ -73,8 +73,8 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 
 ### 📂 File utili
 - [Documentazione completa](doc/ocean2025_project.pdf)  
-- [Codice sorgente](src/main.cpp)  
-- [Datasheet sensori](datasheet/)
+- [batteria](progetto/elettronica/batterie/documentazione_batteria.md)  
+- [sensori](datasheet/)
 
 ---
 
