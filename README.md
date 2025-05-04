@@ -72,7 +72,7 @@ Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa i
 ---
 
 ### 📂 File utili
-- [modello 3D sottomarino](progetto/modello_3D/modello.md)  
+- [modello 3D sottomarino](progetto/modello_3D/scocca_sottomarino/modello.md)  
 - [Cablaggio Batteria](progetto/elettronica/batterie/documentazione_batteria.md)  
 - [Cablaggio elettrico totale sottomarino](datasheet/)
 

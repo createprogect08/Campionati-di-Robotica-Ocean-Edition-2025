@@ -16,8 +16,8 @@ La struttura esterna funge da scafo idrodinamico e supporto meccanico, mentre le
 - **Materiale stampabile**: PLA+ o PETG per la parte esterna, consigliato uso di O-ring e guarnizioni in silicone per i punti critici.
 - **Modulo interno**: Cilindro in plexiglass trasparente con tappi filettati e guarnizioni per l’accesso rapido all’elettronica.
 - **Canaline passacavi**: Incorporate nel modello per mantenere l'ordine e l’impermeabilità dei collegamenti.
-- **Alloggiamento motori**: Predisposto per motori brushless o DC waterproof, montabili su supporti standard M3/M4.
-- **Sistema modulare**: Progettato per consentire la facile manutenzione e l'aggiornamento dei componenti elettronici.
+- **Alloggiamento motori**: Predisposto per motori brushless waterproof, montabili su supporti M3.
+- **Struttura modulare in 6 parti**: Il modello è stato **suddiviso in 6 segmenti** per adattarsi al volume di stampa delle stampanti FDM domestiche.
 
 ---
 
@@ -31,16 +31,18 @@ Utilizzare un cilindro di plexiglass per contenere l’elettronica:
 
 ---
 
-## 🛠️ Stato Attuale
+## 🖼️ Anteprima del Modello
 
-- [x] Progettazione completata  
-- [ ] Verifica delle tolleranze e stampa test  
-- [ ] Assemblaggio e sigillatura  
-- [ ] Test di impermeabilità  
-- [ ] Ottimizzazione per la galleggiabilità
+![Modello 3D Sottomarino](image.png)
 
 ---
 
 ## 📁 File CAD Disponibili
 
-I file STL e STEP sono disponibili nella cartella:
+I file STL e STEP del modello sono disponibili nella cartella:
+- [`/file_3D`](../../file_3D)
+
+
+---
+
+
