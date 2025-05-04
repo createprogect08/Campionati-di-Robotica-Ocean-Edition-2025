@@ -5,7 +5,7 @@
 ---
 
 ### 📌 Descrizione
-Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuare analisi ambientali marine, raccogliendo vari dati e mostrandoli in una piattaforma pubblica.
+Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa in grado di effettuare analisi ambientali marine, raccogliendo vari dati e mostrandoli in una piattaforma pubblica.
 
 ---
 
@@ -21,7 +21,7 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 - **Computer:** Raspberry Pi 5  
 - **Microcontrollore:** Arduino R4 WiFi  
 - **Propulsione:** 5 motori (scegliere se usare DC o B)  
-- **Energia:** Batteria Li-Ion 3S-10P  
+- **Energia:** Batteria Li-Ion 6S3P  
 - **Sensori:**  
   - Sensore temperatura  
   - Sensore TDS (Keyestudio)  
@@ -30,9 +30,9 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
   - Sensore accelerometro  
   - Sensore salinità  
 - **Comunicazione:**  
-  - Trasmissione via cavo Ethernet  
+  - Trasmissione via cavo Ethernet e usb
   - Logging dati su SD  
-  - Possibile trasmissione tramite LoRa  
+  - Possibile trasmissione tramite Wifi e GPS
 - **Visione:** Camera subacquea + Deep Learning per riconoscimento fauna
 
 ---
@@ -72,9 +72,12 @@ Il progetto prevede la realizzazione di un drone subacqueo in grado di effettuar
 ---
 
 ### 📂 File utili
-- [Documentazione completa](doc/ocean2025_project.pdf)  
-- [batteria](progetto/elettronica/batterie/documentazione_batteria.md)  
-- [sensori](datasheet/)
+- [modello 3D sottomarino](progetto/modello_3D/modello.md)  
+- [Cablaggio Batteria](progetto/elettronica/batterie/documentazione_batteria.md)  
+- [Cablaggio elettrico totale sottomarino](datasheet/)
+
+- [modello 3D boa](progetto/modello_3D/modello.md)  
+- [Cablaggio elettrico totale boa](datasheet/)
 
 ---
 
