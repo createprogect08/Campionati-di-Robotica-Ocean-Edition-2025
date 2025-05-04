@@ -39,7 +39,7 @@ Utilizzare un cilindro di plexiglass per contenere l’elettronica:
 
 ## 📁 File CAD Disponibili
 
-I file STL e STEP del modello sono disponibili nella cartella:
+I file STL e OBJ del modello sono disponibili nella cartella:
 - [`/file_3D`](../../file_3D)
 
 
