@@ -47,6 +47,10 @@ Questi blocchi sono collegati in serie per formare il pacco batteria 6S3P, gesti
 
 La disposizione delle celle in parallelo tra i blocchi è stata progettata per adattarsi alla geometria interna del tubo in plexiglass, garantendo al contempo un fissaggio sicuro e la protezione delle celle dall'ambiente acquatico. L'alloggiamento in plexiglass fornisce un isolamento elettrico essenziale e protegge il pacco batteria dalla pressione dell'acqua. La BMS 6S, alloggiata anch'essa all'interno del tubo impermeabile, è vitale per la gestione sicura ed efficiente dell'energia fornita ai motori, bilanciando le tensioni e prevenendo condizioni operative pericolose all'interno del sistema sigillato.
 
+
+[torna alla home](../../../README.md)
+
+
 ## Modello realizzato
 
 ![Modello_realizzato](modello_realizzato/modello_finale.jpg)

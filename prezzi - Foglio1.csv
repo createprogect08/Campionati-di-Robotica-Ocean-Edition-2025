@@ -1,0 +1,35 @@
+Prezzo materiali,,,,,,,
+nome materiale:,quantitativo:,link:,materiale già disponibile:,costo:,costo (molt):,mat. Effe. Costo:,utilizzo:
+PETG (filamento stampante 3d),2kg,link,❌,"27,54","27,54","27,54",per fare la scocca esterna del drone 
+fotocamera HD usb,1,link,❌,"12,99","12,99","12,99",per visualizzare l' area marina
+Rasberry Pi 5 (4gb ram),1,link,✅,"75,53","75,53",,per rieleborare i dati e trasmetterli al pc
+connettore waterproof ethernet,1,link,❌,"7,69","7,69","7,69",per evitare l' entrata della corrente
+turbina waterproof (motore DC)  (modello CW) ,2,link,❌,"18,5",37,37,per far girare il robot
+turbina waterproof (motore DC)  (modello CCW) ,3,link,(1 già in possesso)❌,"18,5",37,37,per far abbassare e alzare il robot
+drive per le turbine (esc almeno 20A),1,link,❌,"19,39","19,39","19,39",per gestire i motori
+Celle di litio (18650),21,link,✅,"5,7","119,7",,alimentare il robot
+giroscopio (MPU-6050),1,link,✅,"2,89","2,89",,orientare il robot
+cavo ethernet water proof,5m,link,✅,"3,55","3,55",,collegarsi al robot
+sensore TDS (Keyestudio),1,link,❌,"9,03","9,03","9,03",dati riguardati la qualità del acqua
+arduino mega,1,link,✅,"30,5","30,5",,ricevere i valori dei sensori
+sensore pressione (0-0.5Mpa),1,link,❌,"10,59","10,59","10,59",capire la distanza di profondità
+riduttore tensione (to 5v),1,link,✅,"3,19","3,19",,alimentare il Rasberry pi 5
+corda,5m,link,✅,"2,16","2,16",,in caso di emergenza recuperare il robot
+plexgras,30cmx30cm,link,✅,20,20,,per protegge luci e fotocamera
+illuminazione led 24v strisce,1m (il minimo),link,✅,"1,5","1,5",,illuminare il territorio marino
+tubo,"d = 80mm, l = 250mm",link,❌,"21,01","21,01","21,01",dove inseriamo l' elettronica per evitare il corto
+cavo usb,5m,link,❌,"13,79","13,79","13,79",per trasmettere alimentazione e dati
+gps,1,link,❌,"3,06","3,06","3,06",per visualizzare la posizione
+modulo ethernet,1,link,❌,"4,31","4,31",,per la comunicazione con il rasberry pi
+modulo gestione celle ,1,link,❌,"7,49","7,49","7,49",per evitare il corto o instabilità nel pacco batteria
+pulsante accensione,1,link,❌,"2,47","2,47","2,47",per accendere la struttura
+guine impermeabili,1,link,❌,"7,99","7,99","7,99",per isolare i cavi sott' acqua
+drive per le turbine (esc almeno 20A),1,link,❌,"14,99","14,99","14,99",per gestire i motori
+Totale:,,,,,"495,36","232,03",
+,,,,,,,
+,,,,,,,
+cose non contare (già presenti),,,,,,,
+cavi vari,,,,,,,
+colla a caldo,,,,,,,
+viti e dadi,,,,,,,
+silicone,,,,,,,
