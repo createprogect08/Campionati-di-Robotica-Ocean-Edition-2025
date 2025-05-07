@@ -5,15 +5,15 @@
 ---
 
 ### 📌 Descrizione
-Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa in grado di effettuare analisi ambientali marine, raccogliendo vari dati e mostrandoli in una piattaforma pubblica.
+Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa in grado di effettuare analisi ambientali marine, raccogliendo vari dati e mostrandoli in una piattaforma.
 
 ---
 
 ### 🎯 Obiettivi
 - Rilevare temperatura, salinità, qualità dell’acqua e pressione  
 - Analizzare il territorio marino con una telecamera  
-- Inviare i dati in superficie in tempo reale  
-- Visualizzare i dati in un sito web pubblico
+- Inviare i dati in superficie
+- Visualizzare i dati
 
 ---
 
@@ -74,12 +74,14 @@ Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa i
 ### 📂 File utili
 - [modello 3D sottomarino](progetto/modello_3D/scocca_sottomarino/modello.md)  
 - [Cablaggio Batteria](progetto/elettronica/elettronica_sottomarino/batterie/documentazione_batteria.md)  
-- [Cablaggio elettrico totale sottomarino](datasheet/)
+- [Cablaggio elettrico totale sottomarino](progetto/elettronica/elettronica_sottomarino/schema_sottomarino.jpg)
 
 - [modello 3D boa](progetto/modello_3D/modello.md)  
-- [Cablaggio elettrico totale boa](datasheet/)
+- [Cablaggio elettrico totale boa](progetto/elettronica/elettronica_boa/collegamento_boa.png)
 
 - [Materiale utilizzato](prezzi.pdf)
+
+- [Approfondimento](approfondimento.md)
 
 ---
 
