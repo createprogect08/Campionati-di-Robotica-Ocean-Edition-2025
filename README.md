@@ -76,7 +76,7 @@ Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa i
 - [Cablaggio Batteria](progetto/elettronica/elettronica_sottomarino/batterie/documentazione_batteria.md)  
 - [Cablaggio elettrico totale sottomarino](progetto/elettronica/elettronica_sottomarino/schema_sottomarino.jpg)
 
-- [modello 3D boa](progetto/modello_3D/modello.md)  
+- [modello 3D boa](progetto/modello_3D/scocca_boa/modello.md)  
 - [Cablaggio elettrico totale boa](progetto/elettronica/elettronica_boa/collegamento_boa.png)
 
 - [Materiale utilizzato](prezzi.pdf)
