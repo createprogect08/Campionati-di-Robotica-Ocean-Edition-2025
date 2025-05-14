@@ -8,7 +8,7 @@ La boa è stata progettata con una struttura conica tripartita per ottimizzare g
 
 1. **Zona Superiore** (Area Elettronica):
    - Alloggiamento stagno per Raspberry Pi 5
-   - Modulo GPS in posizione elevata
+   - Disponibilità di alloggiamento del modulo GPS in posizione elevata
    - Antenna WiFi per comunicazione
    - Vano ventilato per dissipazione calore
 
