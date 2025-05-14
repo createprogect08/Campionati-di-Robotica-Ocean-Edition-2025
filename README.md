@@ -32,7 +32,7 @@ Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa i
 - **Comunicazione:**  
   - Trasmissione via cavo Ethernet e usb
   - Logging dati su SD  
-  - Possibile trasmissione tramite Wifi e GPS
+  - Predisposto (ma non installato) per un eventuale trasmissione dei dati e posizionamento programmato tramite sistema GPS.
 - **Visione:** Camera subacquea + Deep Learning per riconoscimento fauna
 
 ---
