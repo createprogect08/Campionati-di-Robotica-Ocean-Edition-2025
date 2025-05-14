@@ -6,11 +6,11 @@ Il sistema è composto da due unità principali interconnesse:
 
 ### 🛟 Boa di Superficie
 - Equipaggiata con Raspberry Pi 5
-- Possibilità di integrare un sistema GPS per la navigazione
+- Possibilità (non integrata a causa del regolamento) di integrare un sistema GPS per la navigazione
 - Interfaccia di controllo principale
 - Gestione waypoints e percorsi
 - Alimentazione principale
-- Comunicazione con la base attraverso WiFi
+- Disponibilità (non attuata a causa del regolamento) di comunicazione con la base attraverso WiFi
 
 ### 🤿 Unità Sottomarina
 - Controllata da Arduino R4 WiFi
