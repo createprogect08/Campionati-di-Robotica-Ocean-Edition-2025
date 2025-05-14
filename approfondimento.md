@@ -6,7 +6,7 @@ Il sistema è composto da due unità principali interconnesse:
 
 ### 🛟 Boa di Superficie
 - Equipaggiata con Raspberry Pi 5
-- Sistema GPS per navigazione
+- Possibilità di integrare un sistema GPS per la navigazione
 - Interfaccia di controllo principale
 - Gestione waypoints e percorsi
 - Alimentazione principale
