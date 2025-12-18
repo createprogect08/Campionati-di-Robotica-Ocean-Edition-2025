@@ -63,11 +63,13 @@ Il progetto prevede la realizzazione di un drone subacqueo collegato a una Boa i
 | Fase                                   | Data Inizio     | Data Fine        | Stato |
 |----------------------------------------|------------------|------------------|--------|
 | Registrazione e citizen science        | 01/03/2025       | 18/04/2025       | ✅ |
-| Progettazione e sviluppo del prototipo | 01/04/2025       | 10/05/2025       | 🟡 |
-| Upload documentazione e video          | 01/05/2025       | 10/05/2025       | 🔜 |
-| Consegna dati citizen science          | —                | 18/05/2025       | 🔜 |
-| Selezione finalisti                    | —                | 20/05/2025       | 🔜 |
-| Evento finale - Ocean Day              | 06/06/2025       | 06/06/2025       | 🔜 |
+| Progettazione e sviluppo del prototipo | 01/04/2025       | 10/05/2025       | ✅ |
+| Upload documentazione e video          | 01/05/2025       | 10/05/2025       | ✅ |
+| Consegna dati citizen science          | —                | 18/05/2025       | ✅ |
+| Selezione finalisti                    | —                | 20/05/2025       | ✅ |
+| Evento finale - Ocean Day              | 06/06/2025       | 06/06/2025       | ✅ |
+
+[ABBIAMO VINTO IL PRIMO PREMIO !](https://www.guardianidellacosta.it/campionati-di-robotica-ocean-edition-2025-giovani-innovatori-per-la-tutela-del-mare)
 
 ---
 
